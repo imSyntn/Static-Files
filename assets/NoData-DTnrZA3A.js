@@ -1,0 +1,1 @@
+import{j as a}from"./index-ovBpk-RT.js";const e=()=>a.jsxs("div",{className:"loaderWrapper",children:[a.jsx("h1",{className:"NoDataH1",children:"404"}),a.jsxs("p",{className:"NoDataP",children:["No Data Found ",a.jsx("span",{children:"."})]})]});export{e as default};
